@@ -2,9 +2,11 @@ div{
 	width:1000px;
 	height:1000px;
 }
+
 body{
 	background-color: white;  
 }
+
 #write{
 	font: 20px 'Open+Sans', normal;
 	margin-left: 350px;
@@ -14,23 +16,22 @@ body{
 	font: 20px 'Open+Sans';
 	margin-left: 400px;
 }
+
 #author{
 	font: 20px 'Open+Sans', normal;
 	margin-left: 750px;
 	margin-top: -15px;
 }
 
-
 #me{
 	font: 20px 'Open+Sans', normal;
 	margin-left: 550px;
 }
+
 #about{
 	font: 20px 'Open+Sans', normal;
 	margin-left: 500px;
 	margin-right: 100px;
-	
-
 }
 
 img{

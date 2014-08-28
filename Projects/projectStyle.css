@@ -12,10 +12,8 @@ div{
 	margin-top: 100px;
 	margin-left: 490px;
 	margin-right: 500px;
-	border-width:3px;
-	border-style:dotted;
-	border-l
-	
+	border-width: 3px;
+	border-style: dotted;
 }
 
 #con{
@@ -28,5 +26,4 @@ div{
 	text-decoration: none;
 	font: 30px 'Open+Sans', normal;
 	margin-left: 115px;
-}
 }
